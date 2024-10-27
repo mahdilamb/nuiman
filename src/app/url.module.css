@@ -1,0 +1,10 @@
+.group {
+  display: flex;
+  flex-direction: row;
+}
+.method {
+  width: 90px;
+}
+.url {
+  flex: auto;
+}

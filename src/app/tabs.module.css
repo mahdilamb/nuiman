@@ -1,0 +1,9 @@
+.panel {
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+}
+.panel > div {
+  display: flex;
+  flex: auto;
+}
